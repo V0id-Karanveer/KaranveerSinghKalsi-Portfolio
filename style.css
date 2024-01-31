@@ -1,0 +1,21 @@
+#main_img{
+    border: 10px solid #BE3144;
+    border-radius: 50%;
+}
+
+body{
+    color: white;
+}
+.graident_backgroound{
+    background: rgb(0,0,0);
+    background: radial-gradient(circle, rgba(0,0,0,1) 0%, rgba(20,20,20,1) 26%, rgba(0,255,239,1) 100%);
+}
+
+
+
+.comfortaa-normal {
+  font-family: "Comfortaa", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 300;
+  font-style: normal;
+}
